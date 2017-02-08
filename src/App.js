@@ -37,7 +37,7 @@ class App extends Component {
                 <span className="icon">
                   <i className="fa fa-github"></i>
                 </span>
-                <span>Download</span>
+                <span>Download5555555555555555</span>
               </a>
             </span>
           </div>
